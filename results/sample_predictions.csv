@@ -1,0 +1,21 @@
+original_text,cleaned_text,true_label,predicted_label,positive_prob,neutral_prob,negative_prob
+I need help finding the invoice for my last order. Please respond as soon as possible.,need help finding invoice last order please respond soon possible,positive,positive,2.324427e-06,1.1620229e-05,0.999986
+The refund process was fast and convenient.,refund process fast convenient,positive,positive,3.2516484e-06,7.941307e-06,0.99998873
+The delivery was late and the package arrived damaged.,delivery late package arrived damaged,negative,negative,0.99999136,2.0801158e-06,6.572287e-06
+The order is working well and I am happy with the service.,order working well happy service,negative,negative,0.9999916,2.0382672e-06,6.288606e-06
+Please provide the steps to activate analytics.,please provide step activate analytics,positive,positive,2.919809e-06,8.022246e-06,0.999989
+The delivery was late and the package arrived damaged. Please respond as soon as possible.,delivery late package arrived damaged please respond soon possible,neutral,neutral,2.7394547e-06,0.99998945,7.78801e-06
+I am very unhappy because my order has not worked since this morning.,unhappy order worked since morning,positive,positive,2.590464e-06,1.01525275e-05,0.9999872
+I am very unhappy because my mobile app has not worked since last week.,unhappy mobile app worked since last week,positive,positive,2.9736998e-06,9.83406e-06,0.9999872
+I want to understand the warranty terms for this product.,want understand warranty term product,neutral,neutral,2.7394547e-06,0.99998945,7.78801e-06
+The delivery was late and the package arrived damaged.,delivery late package arrived damaged,neutral,neutral,3.2099986e-06,0.999989,7.806224e-06
+I would like to know more about the available plans.,would like know available plan,positive,positive,3.1403226e-06,7.782943e-06,0.999989
+The dashboard is working well and I am happy with the service.,dashboard working well happy service,positive,positive,3.0917874e-06,8.581544e-06,0.99998826
+The mobile app keeps failing and support has not resolved my issue.,mobile app keep failing support resolved issue,neutral,neutral,3.340628e-06,0.99998885,7.7391105e-06
+Can you share the status of my account request?,share status account request,neutral,neutral,2.6499702e-06,0.9999897,7.579439e-06
+Can someone explain the difference between the plans?,someone explain difference plan,negative,negative,0.99999326,2.1756312e-06,4.489037e-06
+The delivery was late and the package arrived damaged. My ticket number is 46865. Please respond as soon as possible.,delivery late package arrived damaged ticket number please respond soon possible,positive,positive,3.0917874e-06,8.581544e-06,0.99998826
+My refund is still pending and this experience is frustrating. My ticket number is 19429.,refund still pending experience frustrating ticket number,positive,positive,3.0106962e-06,8.731784e-06,0.99998814
+Please provide the steps to activate report download. Please respond as soon as possible.,please provide step activate report download please respond soon possible,neutral,neutral,2.8269974e-06,0.9999897,7.4418404e-06
+The response from the team was helpful and professional.,response team helpful professional,neutral,neutral,2.5861689e-06,0.9999872,1.0127288e-05
+The refund process was fast and convenient.,refund process fast convenient,negative,negative,0.99999183,2.8462293e-06,5.243016e-06
